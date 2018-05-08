@@ -1,0 +1,1 @@
+$CENTREONPLUGINS$/centreon_windows_snmp.pl --mode=storage --hostname $HOSTADDRESS$ --warning-usage= 80 --critical-usage= 90
