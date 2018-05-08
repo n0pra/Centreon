@@ -1,3 +1,3 @@
 # Centreon
 
-Commandes centreon
+ Commandes centreon pour la remonter d'informations
